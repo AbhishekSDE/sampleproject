@@ -1,6 +1,6 @@
 public class help {
     public static void main (String as[]){
-        System.out.println("help me");
+        System.out.println("help me right now");
     }     
     
 }
