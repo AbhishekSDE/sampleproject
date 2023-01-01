@@ -1,11 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<projectDescription>
-	<name>workspace</name>
-	<comment></comment>
-	<projects>
-	</projects>
-	<buildSpec>
-	</buildSpec>
-	<natures>
-	</natures>
-</projectDescription>
+class demo
+{
+	public static void main(String[] args) {
+		
+		System.out.println("hello i am abhishek");
+	}
+}
